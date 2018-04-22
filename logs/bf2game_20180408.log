@@ -1,0 +1,882 @@
+==============================================
+ BF2 Logging Started: 04/08/18 16:39:30
+==============================================
+Persistant stats module initialized.
+Custom Medals Data Pack (custom) *NOT* found or is corrupt!
+Snapshot module initialized
+Medal awarding module initialized
+Using Xpack Medals:  False
+Global key string:  &info=rank,ktm-,dfcp,rpar,vtm-,bksk,scor,wdsk,wkl-,heal,dsab,cdsc,tsql,tsqm,wins,vkl-,twsc,time,kill,rsup,tcdr,de-,vac-
+Player Verify module initialized
+warning: syntax error in "admin/default.cfg" on line 1
+initializing default admin/rcon module
+warning: name 'temp_time' is assigned to before global declaration
+Player Manager module initialized
+Creating new record for player profileId  2900033
+Getting STATS for player J. Salt (2900033)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 255
+Getting AWARDS for player J. Salt (2900033)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900095
+Getting STATS for player R. Hallwood (2900095)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 254
+Getting AWARDS for player R. Hallwood (2900095)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900021
+Getting STATS for player N. Goksu (2900021)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 253
+Getting AWARDS for player N. Goksu (2900021)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900118
+Getting STATS for player C. Barnett (2900118)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 252
+Getting AWARDS for player C. Barnett (2900118)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900114
+Getting STATS for player J. Vifian (2900114)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 251
+Getting AWARDS for player J. Vifian (2900114)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900065
+Getting STATS for player F. Morales (2900065)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 250
+Getting AWARDS for player F. Morales (2900065)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900038
+Getting STATS for player B. Pajor (2900038)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 249
+Getting AWARDS for player B. Pajor (2900038)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900049
+Getting STATS for player D. Sirland (2900049)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 248
+Getting AWARDS for player D. Sirland (2900049)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900032
+Getting STATS for player J. Sanick (2900032)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 247
+Getting AWARDS for player J. Sanick (2900032)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900111
+Getting STATS for player K. Yip (2900111)...
+Received STATS data is VALID, length 912
+Found GSI rank 0 for player 246
+Getting AWARDS for player K. Yip (2900111)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900119
+Getting STATS for player M. Cassidy (2900119)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 245
+Getting AWARDS for player M. Cassidy (2900119)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900101
+Getting STATS for player M. Livesey (2900101)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 244
+Getting AWARDS for player M. Livesey (2900101)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900063
+Getting STATS for player R. Walton (2900063)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 243
+Getting AWARDS for player R. Walton (2900063)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900087
+Getting STATS for player M. Brassard (2900087)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 242
+Getting AWARDS for player M. Brassard (2900087)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900009
+Getting STATS for player R. Lopez (2900009)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 241
+Getting AWARDS for player R. Lopez (2900009)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900097
+Getting STATS for player K. Hoang (2900097)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 240
+Getting AWARDS for player K. Hoang (2900097)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900096
+Getting STATS for player M. Hart (2900096)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 239
+Getting AWARDS for player M. Hart (2900096)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900076
+Getting STATS for player M. Rudberg (2900076)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 238
+Getting AWARDS for player M. Rudberg (2900076)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900036
+Getting STATS for player M. Sjoberg (2900036)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 237
+Getting AWARDS for player M. Sjoberg (2900036)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900120
+Getting STATS for player T. Kingston (2900120)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 236
+Getting AWARDS for player T. Kingston (2900120)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900035
+Getting STATS for player S. Lindgren (2900035)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 235
+Getting AWARDS for player S. Lindgren (2900035)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900005
+Getting STATS for player A. Andersson (2900005)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 234
+Getting AWARDS for player A. Andersson (2900005)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900003
+Getting STATS for player J. Jonsson (2900003)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 233
+Getting AWARDS for player J. Jonsson (2900003)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900048
+Getting STATS for player K. Hegethorn (2900048)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 232
+Getting AWARDS for player K. Hegethorn (2900048)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900004
+Getting STATS for player S. Wallberg (2900004)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 231
+Getting AWARDS for player S. Wallberg (2900004)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900081
+Getting STATS for player P. Osterblom (2900081)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 230
+Getting AWARDS for player P. Osterblom (2900081)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900023
+Getting STATS for player F. Lindblom (2900023)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 229
+Getting AWARDS for player F. Lindblom (2900023)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900045
+Getting STATS for player J. Norberg (2900045)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 228
+Getting AWARDS for player J. Norberg (2900045)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900000
+Getting STATS for player T. Karlsson (2900000)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 227
+Getting AWARDS for player T. Karlsson (2900000)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900077
+Getting STATS for player M. Hedlund (2900077)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 226
+Getting AWARDS for player M. Hedlund (2900077)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900012
+Getting STATS for player M. Kopparhed (2900012)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 225
+Getting AWARDS for player M. Kopparhed (2900012)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900082
+Getting STATS for player S. Evans (2900082)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 224
+Getting AWARDS for player S. Evans (2900082)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900042
+Getting STATS for player N. Stromquist (2900042)...
+Received STATS data is VALID, length 919
+Found GSI rank 0 for player 223
+Getting AWARDS for player N. Stromquist (2900042)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900040
+Getting STATS for player P. Lindholm (2900040)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 222
+Getting AWARDS for player P. Lindholm (2900040)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900112
+Getting STATS for player W. Young (2900112)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 221
+Getting AWARDS for player W. Young (2900112)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900041
+Getting STATS for player P. OShaughnessy (2900041)...
+Received STATS data is VALID, length 921
+Found GSI rank 0 for player 220
+Getting AWARDS for player P. OShaughnessy (2900041)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900099
+Getting STATS for player F. Liliegren (2900099)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 219
+Getting AWARDS for player F. Liliegren (2900099)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900057
+Getting STATS for player M. Crabtree (2900057)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 218
+Getting AWARDS for player M. Crabtree (2900057)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900070
+Getting STATS for player M. Kylmamaa (2900070)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 217
+Getting AWARDS for player M. Kylmamaa (2900070)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900001
+Getting STATS for player R. Edgren (2900001)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 216
+Getting AWARDS for player R. Edgren (2900001)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900056
+Getting STATS for player J. Gonzales (2900056)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 215
+Getting AWARDS for player J. Gonzales (2900056)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900002
+Getting STATS for player P.K. Johansson (2900002)...
+Received STATS data is VALID, length 920
+Found GSI rank 0 for player 214
+Getting AWARDS for player P.K. Johansson (2900002)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900085
+Getting STATS for player M. Belanger (2900085)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 213
+Getting AWARDS for player M. Belanger (2900085)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900075
+Getting STATS for player S. Decker (2900075)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 212
+Getting AWARDS for player S. Decker (2900075)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900084
+Getting STATS for player D. Aberin (2900084)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 211
+Getting AWARDS for player D. Aberin (2900084)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900017
+Getting STATS for player L. Martensson (2900017)...
+Received STATS data is VALID, length 919
+Found GSI rank 0 for player 210
+Getting AWARDS for player L. Martensson (2900017)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900008
+Getting STATS for player M. Hornlund (2900008)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 209
+Getting AWARDS for player M. Hornlund (2900008)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900050
+Getting STATS for player J. Dawsari (2900050)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 208
+Getting AWARDS for player J. Dawsari (2900050)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900110
+Getting STATS for player N. White (2900110)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 207
+Getting AWARDS for player N. White (2900110)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900104
+Getting STATS for player S. North (2900104)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 206
+Getting AWARDS for player S. North (2900104)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900055
+Getting STATS for player H. Andersson (2900055)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 205
+Getting AWARDS for player H. Andersson (2900055)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900117
+Getting STATS for player S. Flyte (2900117)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 204
+Getting AWARDS for player S. Flyte (2900117)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900105
+Getting STATS for player S. Pinkerton (2900105)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 203
+Getting AWARDS for player S. Pinkerton (2900105)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900013
+Getting STATS for player C. Cyreus (2900013)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 202
+Getting AWARDS for player C. Cyreus (2900013)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900061
+Getting STATS for player R. Pace (2900061)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 201
+Getting AWARDS for player R. Pace (2900061)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900125
+Getting STATS for player C. Clarke (2900125)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 200
+Getting AWARDS for player C. Clarke (2900125)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900064
+Getting STATS for player D. King (2900064)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 199
+Getting AWARDS for player D. King (2900064)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900011
+Getting STATS for player P. Hoyles (2900011)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 198
+Getting AWARDS for player P. Hoyles (2900011)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900091
+Getting STATS for player E. Douridas (2900091)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 197
+Getting AWARDS for player E. Douridas (2900091)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900094
+Getting STATS for player R. Gimbel (2900094)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 196
+Getting AWARDS for player R. Gimbel (2900094)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900123
+Getting STATS for player J. Hartling (2900123)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 195
+Getting AWARDS for player J. Hartling (2900123)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900100
+Getting STATS for player R. Linde (2900100)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 194
+Getting AWARDS for player R. Linde (2900100)...
+Received AWARDS data is VALID, length 65
+Player Manager module initialized
+Creating new record for player profileId  2900027
+Getting STATS for player E. Sjovold (2900027)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 193
+Getting AWARDS for player E. Sjovold (2900027)...
+Received AWARDS data is VALID, length 65
+Reset orderiterator to 63 based on highest pid kept
+Reset orderiterator to 63 based on highest pid kept
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Player Manager module initialized
+Creating new record for player profileId  2900126
+Getting STATS for player Wilson212 (2900126)...
+Running CSE Verification Check on Player (Wilson212)
+Backend CSE Response on Player (Wilson212): OK - Player Is Valid 
+onAwardsResponse -> Player medals: {}
+onStatsResponse -> Stats response received for player 0 size 916.
+Assembling STATS dictionary with 111 keys
+Found GSI rank 17 for player 0
+Reset orderiterator to 64 based on highest pid kept
+Getting STATS for player J. Salt (2900033)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 255
+Getting AWARDS for player J. Salt (2900033)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Hallwood (2900095)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 254
+Getting AWARDS for player R. Hallwood (2900095)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player N. Goksu (2900021)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 253
+Getting AWARDS for player N. Goksu (2900021)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player C. Barnett (2900118)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 252
+Getting AWARDS for player C. Barnett (2900118)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Vifian (2900114)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 251
+Getting AWARDS for player J. Vifian (2900114)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player F. Morales (2900065)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 250
+Getting AWARDS for player F. Morales (2900065)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player B. Pajor (2900038)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 249
+Getting AWARDS for player B. Pajor (2900038)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player D. Sirland (2900049)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 248
+Getting AWARDS for player D. Sirland (2900049)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Sanick (2900032)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 247
+Getting AWARDS for player J. Sanick (2900032)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player K. Yip (2900111)...
+Received STATS data is VALID, length 912
+Found GSI rank 0 for player 246
+Getting AWARDS for player K. Yip (2900111)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Cassidy (2900119)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 245
+Getting AWARDS for player M. Cassidy (2900119)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Livesey (2900101)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 244
+Getting AWARDS for player M. Livesey (2900101)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Walton (2900063)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 243
+Getting AWARDS for player R. Walton (2900063)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Brassard (2900087)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 242
+Getting AWARDS for player M. Brassard (2900087)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Lopez (2900009)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 241
+Getting AWARDS for player R. Lopez (2900009)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player K. Hoang (2900097)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 240
+Getting AWARDS for player K. Hoang (2900097)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Hart (2900096)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 239
+Getting AWARDS for player M. Hart (2900096)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Rudberg (2900076)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 238
+Getting AWARDS for player M. Rudberg (2900076)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Sjoberg (2900036)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 237
+Getting AWARDS for player M. Sjoberg (2900036)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player T. Kingston (2900120)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 236
+Getting AWARDS for player T. Kingston (2900120)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. Lindgren (2900035)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 235
+Getting AWARDS for player S. Lindgren (2900035)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player A. Andersson (2900005)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 234
+Getting AWARDS for player A. Andersson (2900005)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Jonsson (2900003)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 233
+Getting AWARDS for player J. Jonsson (2900003)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player K. Hegethorn (2900048)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 232
+Getting AWARDS for player K. Hegethorn (2900048)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. Wallberg (2900004)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 231
+Getting AWARDS for player S. Wallberg (2900004)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player P. Osterblom (2900081)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 230
+Getting AWARDS for player P. Osterblom (2900081)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player F. Lindblom (2900023)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 229
+Getting AWARDS for player F. Lindblom (2900023)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Norberg (2900045)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 228
+Getting AWARDS for player J. Norberg (2900045)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player T. Karlsson (2900000)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 227
+Getting AWARDS for player T. Karlsson (2900000)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Hedlund (2900077)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 226
+Getting AWARDS for player M. Hedlund (2900077)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Kopparhed (2900012)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 225
+Getting AWARDS for player M. Kopparhed (2900012)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. Evans (2900082)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 224
+Getting AWARDS for player S. Evans (2900082)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player N. Stromquist (2900042)...
+Received STATS data is VALID, length 919
+Found GSI rank 0 for player 223
+Getting AWARDS for player N. Stromquist (2900042)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player P. Lindholm (2900040)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 222
+Getting AWARDS for player P. Lindholm (2900040)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player W. Young (2900112)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 221
+Getting AWARDS for player W. Young (2900112)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player P. OShaughnessy (2900041)...
+Received STATS data is VALID, length 921
+Found GSI rank 0 for player 220
+Getting AWARDS for player P. OShaughnessy (2900041)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player F. Liliegren (2900099)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 219
+Getting AWARDS for player F. Liliegren (2900099)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Crabtree (2900057)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 218
+Getting AWARDS for player M. Crabtree (2900057)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Kylmamaa (2900070)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 217
+Getting AWARDS for player M. Kylmamaa (2900070)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Edgren (2900001)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 216
+Getting AWARDS for player R. Edgren (2900001)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Gonzales (2900056)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 215
+Getting AWARDS for player J. Gonzales (2900056)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player P.K. Johansson (2900002)...
+Received STATS data is VALID, length 920
+Found GSI rank 0 for player 214
+Getting AWARDS for player P.K. Johansson (2900002)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Belanger (2900085)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 213
+Getting AWARDS for player M. Belanger (2900085)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. Decker (2900075)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 212
+Getting AWARDS for player S. Decker (2900075)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player D. Aberin (2900084)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 211
+Getting AWARDS for player D. Aberin (2900084)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player L. Martensson (2900017)...
+Received STATS data is VALID, length 919
+Found GSI rank 0 for player 210
+Getting AWARDS for player L. Martensson (2900017)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player M. Hornlund (2900008)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 209
+Getting AWARDS for player M. Hornlund (2900008)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Dawsari (2900050)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 208
+Getting AWARDS for player J. Dawsari (2900050)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player N. White (2900110)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 207
+Getting AWARDS for player N. White (2900110)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. North (2900104)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 206
+Getting AWARDS for player S. North (2900104)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player H. Andersson (2900055)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 205
+Getting AWARDS for player H. Andersson (2900055)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. Flyte (2900117)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 204
+Getting AWARDS for player S. Flyte (2900117)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player S. Pinkerton (2900105)...
+Received STATS data is VALID, length 918
+Found GSI rank 0 for player 203
+Getting AWARDS for player S. Pinkerton (2900105)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player C. Cyreus (2900013)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 202
+Getting AWARDS for player C. Cyreus (2900013)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Pace (2900061)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 201
+Getting AWARDS for player R. Pace (2900061)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player C. Clarke (2900125)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 200
+Getting AWARDS for player C. Clarke (2900125)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player D. King (2900064)...
+Received STATS data is VALID, length 913
+Found GSI rank 0 for player 199
+Getting AWARDS for player D. King (2900064)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player P. Hoyles (2900011)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 198
+Getting AWARDS for player P. Hoyles (2900011)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player E. Douridas (2900091)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 197
+Getting AWARDS for player E. Douridas (2900091)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Gimbel (2900094)...
+Received STATS data is VALID, length 915
+Found GSI rank 0 for player 196
+Getting AWARDS for player R. Gimbel (2900094)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player J. Hartling (2900123)...
+Received STATS data is VALID, length 917
+Found GSI rank 0 for player 195
+Getting AWARDS for player J. Hartling (2900123)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player R. Linde (2900100)...
+Received STATS data is VALID, length 914
+Found GSI rank 0 for player 194
+Getting AWARDS for player R. Linde (2900100)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player E. Sjovold (2900027)...
+Received STATS data is VALID, length 916
+Found GSI rank 0 for player 193
+Getting AWARDS for player E. Sjovold (2900027)...
+Received AWARDS data is VALID, length 65
+Getting STATS for player Wilson212 (2900126)...
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+onAwardsResponse -> Player medals: {}
+onStatsResponse -> Stats response received for player 0 size 916.
+Assembling STATS dictionary with 111 keys
+Found GSI rank 17 for player 0
+chat: pid=-1 text='T. Kingston destroyed an enemy vehicle!' channel=ServerTeamMessage
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+chat: pid=-1 text='R. Hallwood destroyed an enemy vehicle!' channel=ServerTeamMessage
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+Timer object destroyed (rc 0)
+ ---------------- END OF GAME ----------------
+Assembling snapshot
+Doing Player SNAPSHOTS
+SNAPSHOT Data generated in 23 ms
+Sending SNAPSHOT to backend: 127.0.0.1
+SNAPSHOT Received: OK
+SNAPSHOT Processing Time: 95 ms
+Cleaning out unconnected players from stats map
+Cleaning out unconnected players from medal map
+Repacked stats map. Stats map size=64. OrderIt changed from 64 to 64
+Timer object destroyed (rc 0)
+Removed player index 0 from player cache
+Removed player index 255 from player cache
+Removed player index 254 from player cache
+Removed player index 253 from player cache
+Removed player index 252 from player cache
+Removed player index 251 from player cache
+Removed player index 250 from player cache
+Removed player index 249 from player cache
+Removed player index 248 from player cache
+Removed player index 247 from player cache
+Removed player index 246 from player cache
+Removed player index 245 from player cache
+Removed player index 244 from player cache
+Removed player index 243 from player cache
+Removed player index 242 from player cache
+Removed player index 241 from player cache
+Removed player index 240 from player cache
+Removed player index 239 from player cache
+Removed player index 238 from player cache
+Removed player index 237 from player cache
+Removed player index 236 from player cache
+Removed player index 235 from player cache
+Removed player index 234 from player cache
+Removed player index 233 from player cache
+Removed player index 232 from player cache
+Removed player index 231 from player cache
+Removed player index 230 from player cache
+Removed player index 229 from player cache
+Removed player index 228 from player cache
+Removed player index 227 from player cache
+Removed player index 226 from player cache
+Removed player index 225 from player cache
+Removed player index 224 from player cache
+Removed player index 223 from player cache
+Removed player index 222 from player cache
+Removed player index 221 from player cache
+Removed player index 220 from player cache
+Removed player index 219 from player cache
+Removed player index 218 from player cache
+Removed player index 217 from player cache
+Removed player index 216 from player cache
+Removed player index 215 from player cache
+Removed player index 214 from player cache
+Removed player index 213 from player cache
+Removed player index 212 from player cache
+Removed player index 211 from player cache
+Removed player index 210 from player cache
+Removed player index 209 from player cache
+Removed player index 208 from player cache
+Removed player index 207 from player cache
+Removed player index 206 from player cache
+Removed player index 205 from player cache
+Removed player index 204 from player cache
+Removed player index 203 from player cache
+Removed player index 202 from player cache
+Removed player index 201 from player cache
+Removed player index 200 from player cache
+Removed player index 199 from player cache
+Removed player index 198 from player cache
+Removed player index 197 from player cache
+Removed player index 196 from player cache
+Removed player index 195 from player cache
+Removed player index 194 from player cache
+Removed player index 193 from player cache
+shutting down default admin/rcon module
