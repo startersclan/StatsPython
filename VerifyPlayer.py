@@ -25,6 +25,7 @@ def onPlayerConnect(aPlayer):
 	
 	# Run check
 	print "Running CSE Verification Check on Player (%s)" % str(aPlayer.getName())
+	if g_debug: print "URI: %s" % (asp_URI)
 	data = http_get( http_backend_addr, http_backend_port, asp_URI )
 	
 	if data and data[0] == 'O':

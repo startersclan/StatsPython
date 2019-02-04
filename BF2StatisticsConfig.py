@@ -21,12 +21,11 @@ debug_fraglog_enable = 0				# Detailed 'Fragalyzer' Logs (requires existing fold
 #
 # An AuthID and AuthToken are required to post stats data to the ASP backend.
 # Contact your local Stats Admin to recieve an AuthID and AuthToken. Both of
-# which are NOT to be shared with anyone, and MUST be unique to each server
-# instance!
+# which are NOT to be shared with anyone!
 # ------------------------------------------------------------------------------
 stats_enable = 1
-stats_auth_id = 137064		# Required to post stats data at the end of round.
-stats_auth_token = 'xh32IewjH1gT95tM'	# Required to post stats data at the end of round.
+stats_auth_id = 112960		# Required to post stats data at the end of round.
+stats_auth_token = '2GS61JLR2WQq2n6N'	# Required to post stats data at the end of round.
 
 # ------------------------------------------------------------------------------
 # ASP Stats Backend Web Server

@@ -80,7 +80,7 @@ def invoke():
 
 	# Send snapshot to Backend Server
 	print "Sending SNAPSHOT to backend: %s" % str(http_backend_addr)
-	SNAP_SEND = 0
+	snapshot_sent = 0
 	
 	# -------------------------------------------------------------------
 	# Attempt to send snapshot
@@ -89,34 +89,38 @@ def invoke():
 		backend_response = http_postSnapshot( http_backend_addr, http_backend_port, http_backend_asp, snapShot )
 		if backend_response and backend_response[0] == 'O':
 			print "SNAPSHOT Received: OK"
-			SNAP_SEND = 1
+			snapshot_sent = 1
+			if g_debug: sayAll("Game Stats Received OK")
 			
 		else:
 			print "SNAPSHOT Received: ERROR"
 			if backend_response and backend_response[0] == 'E':
 				datalines = backend_response.splitlines()
-				print "Backend Response: %s" % str(datalines[2])
+				response = datalines[2].split("\t")
+				print "Backend Response: %s" % str(response[-1:])
+				if g_debug: sayAll("Game Stats Received in ERROR: %s" % str(response[-1:]))
 				
-			SNAP_SEND = 0
+			snapshot_sent = 0
 		
 	except Exception, e:
-		SNAP_SEND = 0
+		snapshot_sent = 0
 		print "An error occurred while sending SNAPSHOT to backend: %s" % str(e)
+		if g_debug: sayAll("An error occurred while sending stats data to backend: %s" % str(e))
 		
 	
 	# -------------------------------------------------------------------
 	# If SNAPSHOT logging is enabled, or the snapshot failed to send, 
 	# then log the snapshot
 	# -------------------------------------------------------------------	
-	if snapshot_logging == 1 or SNAP_SEND == 0:
+	if snapshot_logging == 1 or snapshot_sent == 0:
 		snaplog_title = ""
 		log_time = str(strftime("%Y%m%d_%H%M", localtime()))
 	
-		if SNAP_SEND == 0:
-			snaplog_title = snapshot_log_path_unsent + "/" + snapshot_prefix + "-" + bf2.gameLogic.getMapName() + "_" + log_time + ".json"
+		if snapshot_sent == 0:
+			snaplog_title = snapshot_log_path_unsent + "/" + bf2.gameLogic.getMapName() + "_" + log_time + ".json"
 			print "Logging snapshot for manual processing..."
 		else:
-			snaplog_title = snapshot_log_path_sent + "/" + snapshot_prefix + "-" + bf2.gameLogic.getMapName() + "_" + log_time + ".json"
+			snaplog_title = snapshot_log_path_sent + "/" + bf2.gameLogic.getMapName() + "_" + log_time + ".json"
 		
 		print "SNAPSHOT log file: %s" % snaplog_title
 		try:
@@ -247,7 +251,7 @@ def getSnapShot():
 		("winner",		str(bf2.gameLogic.getWinner())),
 		("gameMode",	str(getGameModeId(bf2.serverSettings.getGameMode()))),
 		("mod",			str(running_mod)),
-		("version",		"3.0"),
+		("version",		"3.1"),
 		("pc",			len(statsMap)),
 	]
 	
@@ -405,6 +409,7 @@ def getPlayerSnapshot(playerStat):
 			keyvals = []
 			keyvals.append ('"id":' + str(i))
 			keyvals.append ('"time":' + str(vTime))
+			keyvals.append ('"score":' + str(v.score))
 			keyvals.append ('"kills":' + str(v.kills))
 			keyvals.append ('"deaths":' + str(v.deaths))
 			keyvals.append ('"roadkills":' + str(v.roadKills))
@@ -422,6 +427,7 @@ def getPlayerSnapshot(playerStat):
 			keyvals = []
 			keyvals.append ('"id":' + str(i))
 			keyvals.append ('"time":' + str(kTime))
+			keyvals.append ('"score":' + str(k.score))
 			keyvals.append ('"kills":' + str(k.kills))
 			keyvals.append ('"deaths":' + str(k.deaths))
 			kitkeyvals.append ('{' +  ",".join(keyvals) + '}')
@@ -445,6 +451,7 @@ def getPlayerSnapshot(playerStat):
 			keyvals = []
 			keyvals.append ('"id":' + str(i))
 			keyvals.append ('"time":' + str(wTime))
+			keyvals.append ('"score":' + str(w.score))
 			keyvals.append ('"kills":' + str(w.kills))
 			keyvals.append ('"deaths":' + str(w.deaths))
 			keyvals.append ('"fired":' + str(w.bulletsFired))
@@ -459,4 +466,8 @@ def getPlayerSnapshot(playerStat):
 	allSnapShots = [playerSnapShot, armySnapShot, kitSnapShot, vehicleSnapShot, weaponSnapShot, victimSnapShot, medalsSnapShot]
 	playerSnapShot = ",".join(allSnapShots)
 	return "{" + playerSnapShot + "}"
+
+
+def sayAll(msg):
+	host.rcon_invoke("game.sayAll \"" + str(msg) + "\"")
 
